@@ -1,0 +1,173 @@
+.chamadaH  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: #FFF;
+    text-align: center;
+    
+    background-color: #00161C;
+
+    padding-top: 12.25rem;
+    padding-bottom: 2.5rem;
+}
+
+.chamadaC  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: #FFF;
+    text-align: center;
+    
+    background-color: #00161C;
+
+    padding-top: 12.25rem;
+    padding-bottom: 2.5rem;
+}
+
+.chamadaM  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: #FFF;
+    text-align: center;
+    
+    background-color: #00161C;
+
+    padding-top: 12.25rem;
+    padding-bottom: 2.5rem;
+}
+
+.chamadaD  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: #FFF;
+    text-align: center;
+    
+    background-color: #00161C;
+
+    padding-top: 12.25rem;
+    padding-bottom: 2.5rem;
+}
+
+.chamadaS  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: #FFF;
+    text-align: center;
+    
+    background-color: #00161C;
+
+    padding-top: 12.25rem;
+    padding-bottom: 2.5rem;
+}
+
+.chamada__titulo {
+    font-family: 'Montserrat', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+
+    margin-bottom: 1.5rem;
+}
+
+.chamada__texto {
+    font-size: 1.25rem;
+    line-height: normal;
+
+    margin: 0 auto 2.5rem;
+}
+
+.chamada__botao {
+    width: 100%;
+}
+
+.video {
+
+    width: 560px;
+    margin: 2em auto;
+
+}
+
+@media screen and (min-width:  1024px) {
+    .chamadaH {
+        background-image: url(../img/fogueira.jpg);
+        background-size: cover;
+
+        padding-top: 8.25rem;
+    }
+
+    .chamada__titulo {
+        font-size: 3.25rem;
+        margin-bottom: 2rem;
+    }
+
+}
+
+@media screen and (min-width:  1024px) {
+    .chamadaC {
+        background-image: url(../img/comida.jpg);
+        background-size: cover;
+
+        padding-top: 8.25rem;
+    }
+
+    .chamada__titulo {
+        font-size: 3.25rem;
+        margin-bottom: 2rem;
+    }
+
+}
+
+
+@media screen and (min-width:  1024px) {
+    .chamadaM {
+        background-image: url(../img/sanfona.jpg);
+        background-size: cover;
+
+        padding-top: 8.25rem;
+    }
+
+    .chamada__titulo {
+        font-size: 3.25rem;
+        margin-bottom: 2rem;
+    }
+
+}
+
+
+@media screen and (min-width:  1024px) {
+    .chamadaD {
+        background-image: url(../img/quadrilhajunina.jpg);
+        background-size: cover;
+
+        padding-top: 8.25rem;
+    }
+
+    .chamada__titulo {
+        font-size: 3.25rem;
+        margin-bottom: 2rem;
+    }
+
+}
+
+@media screen and (min-width:  1024px) {
+    .chamadaS {
+        background-image: url(../img/balao.jpg);
+        background-size: cover;
+
+        padding-top: 8.25rem;
+    }
+
+    .chamada__titulo {
+        font-size: 3.25rem;
+        margin-bottom: 2rem;
+    }
+
+}
